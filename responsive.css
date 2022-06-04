@@ -1,0 +1,28 @@
+@media (max-width:768px){
+    .btn-bottom1 a {
+        width: 153px; 
+    }
+    .btn-bottom2 a {
+        width: 160px;
+    }
+}
+@media (max-width:576px){
+    .slider-caption h2 {
+        font-size: 45px;
+        margin-bottom: 26px;
+    }
+    .form-control-lg {
+       font-size: 16px;
+    }
+    .slider-caption .btn {
+        width: 166px;
+        padding: 5px 0;
+    }
+    .btn-bottom1 a {
+        width: 120px;
+    }
+    .btn-bottom2 a {
+        width: 145px;
+        margin-left: 16px;
+    }
+}
